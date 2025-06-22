@@ -1,0 +1,64 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>3, 2, 1... Streamez !</mj-title>
+    <mj-font name="Source Sans 3" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&amp;display=swap"></mj-font>
+    <mj-raw>
+      <meta charset="UTF-8">
+      <meta name='color-scheme' content='light'/>
+      <meta name='supported-color-schemes' content='light'/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-attributes>
+      <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
+      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="42px" font-weight="300"/>
+      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="35px" font-weight="300"/>
+      <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
+      <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
+      <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
+      <mj-button padding="0" inner-padding="10px 10px" background-color="#73389B" width="163px" border-radius="20px" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="16px" line-height="20px" font-weight="700" text-transform="uppercase"></mj-button>
+      <mj-class name="cT1" color="#2c262d"/>
+      <mj-class name="bgT1" background-color="#2c262d"></mj-class>
+      <mj-class name="cT0" color="#000000"/>
+      <mj-class name="bg0" background-color="#000000"/>
+      <mj-class name="cTW" color="#ffffff"/>
+      <mj-class name="bgW" background-color="#ffffff"/>
+      <mj-class name="cB" color="#73389B"/>
+      <mj-class name="bgB" background-color="#73389B"/>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f1f0f0" width="700px">
+    <mj-section padding="24px 30px" mj-class="bgT1">
+      <mj-group>
+        <mj-column vertical-align="middle">
+          <mj-image align="left" padding="0" width="145px" src="./images/logoNetgearWhite.png" alt="logo Netgear store en blanc"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-text align="right" padding="0" mj-class="T9-400" color="#ababab" text-transform="uppercase" letter-spacing="2px"><a style="text-decoration:none;color:#ababab;" href="#">version en ligne&nbsp;&#x23f5;</a></mj-text>
+        </mj-column>
+      </mj-group>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>3, 2, 1... Streamez !</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/interieurMaison.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-text>Streamez en continu</mj-text>
+        <mj-text>Nos Solutions WiFi Mesh permettent à toute la famille de streamer sans ralentissement, ou interruption, de passer des appels vidéo et de jouer en ligne simultanément, sans que votre connexion WiFi ne ralentisse.</mj-text>
+        <mj-text>Découvrez nos Solutions WiFi et optez pour celle qui vous conviendra par rapport à la vitesse WiFi recherchée, au nombre d'appareils connectés ou en encore à la superficie de votre maison.</mj-text>
+        <mj-text>La bonne nouvelle est que vous pouvez profiter dès maintenant de promos exlusives sur nos meilleures Solutions WiFi qui vous maintiendront tous connectés !</mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
