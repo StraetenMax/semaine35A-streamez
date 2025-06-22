@@ -60,5 +60,56 @@
         <mj-text>La bonne nouvelle est que vous pouvez profiter dès maintenant de promos exlusives sur nos meilleures Solutions WiFi qui vous maintiendront tous connectés !</mj-text>
       </mj-column>
     </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/WIFIblue.png" alt=""/>
+        <mj-text>Système mesh orbi wifi 6</mj-text>
+        <mj-text>Avec les Systèmes Mesh Orbi WiFi 6, vous pouvez résoudre de façon permanente les problèmes de couverture WiFi dans toute votre maison. Tous les membres de votre famille seront conquis grâce à la connexion Wifi ultre-rapide. Vous ne pourrez même plus vous en passer.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="./images/RBK752.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK752) Jusqu'à 350m2</mj-text>
+        <mj-text>499.99€ 359.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/RBK753.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK753) Jusqu'à 525m2</mj-text>
+        <mj-text>699.99€ 509.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/RBK754.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK754) Jusqu'à 700m2</mj-text>
+        <mj-text>929.99€ 669.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/RBK755.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
+        <mj-text>(RBK755) Jusqu'à 875m2</mj-text>
+        <mj-text>1149.99€ 849.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/RBK352.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi WiFi 6 AX1800 </mj-text>
+        <mj-text>(RBK352) Jusqu'à 200m2</mj-text>
+        <mj-text>249.99€ 179.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+      <mj-column>
+        <mj-image src="./images/RBK353.jpg" alt=""/>
+        <mj-text>Système Mesh Orbi WiFi 6 AX1800</mj-text>
+        <mj-text>(RBK353) Jusqu'à 300m2</mj-text>
+        <mj-text>349.99€ 259.99€</mj-text>
+        <mj-button>J'en profite</mj-button>
+      </mj-column>
+    </mj-section>
   </mj-body>
 </mjml>
