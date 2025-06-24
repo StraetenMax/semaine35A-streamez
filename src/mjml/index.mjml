@@ -14,8 +14,8 @@
     </mj-raw>
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
-      <mj-class name="T35-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="35px" line-height="42px" font-weight="300"/>
-      <mj-class name="T25-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="25px" line-height="35px" font-weight="300"/>
+      <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="50px" font-weight="300"/>
+      <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
       <mj-class name="T11-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="11px" line-height="14px" font-weight="400"/>
@@ -60,14 +60,14 @@
         <mj-text>La bonne nouvelle est que vous pouvez profiter dès maintenant de promos exlusives sur nos meilleures Solutions WiFi qui vous maintiendront tous connectés !</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgB">
       <mj-column>
         <mj-image src="./images/WIFIblue.png" alt=""/>
         <mj-text>Système mesh orbi wifi 6</mj-text>
         <mj-text>Avec les Systèmes Mesh Orbi WiFi 6, vous pouvez résoudre de façon permanente les problèmes de couverture WiFi dans toute votre maison. Tous les membres de votre famille seront conquis grâce à la connexion Wifi ultre-rapide. Vous ne pourrez même plus vous en passer.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
         <mj-image src="./images/RBK752.jpg" alt=""/>
         <mj-text>Système Mesh Orbi WiFi 6 AX4200</mj-text>
@@ -111,27 +111,27 @@
         <mj-button>J'en profite</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bg0">
       <mj-column>
-        <mj-image src="./images/WIFIblack.png" alt=""/>
-        <mj-text>répéteurs wifi</mj-text>
-        <mj-text>Ajoutez un répéteur WiFi à votre box ou routeur pour étendre votre connexion là où il n'y a pas de couverture WiFi.</mj-text>
+        <mj-image padding="0" width="234px" src="./images/WIFIblack.png" alt=""/>
+        <mj-text align="center" mj-class="T30-300 cTW" text-transform="uppercase">répéteurs wifi</mj-text>
+        <mj-text align="center" mj-class="T17-500 cTW" letter-spacing="0.5px">Ajoutez un répéteur WiFi à votre box ou routeur pour étendre votre connexion là où il n'y a pas de couverture WiFi.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
         <mj-image src="./images/repeteurWiFi6MeshAX6000.jpg" alt=""/>
-        <mj-text>Répéteur WiFi 6 Mesh</mj-text>
-        <mj-text>AX6000 (EAX80)</mj-text>
-        <mj-text>299.99€ 199.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text align="center" padding="0">Répéteur WiFi 6 Mesh</mj-text>
+        <mj-text align="center" padding="0">AX6000 (EAX80)</mj-text>
+        <mj-text align="center" padding="0">299.99€ 199.99€</mj-text>
+        <mj-button mj-class="bg0">J'en profite</mj-button>
       </mj-column>
       <mj-column>
         <mj-image src="./images/repeteurWiFi5MeshAC3000.jpg" alt=""/>
-        <mj-text>Répéteur WiFi 5 Mesh</mj-text>
-        <mj-text>AC3000 (EX8000)</mj-text>
-        <mj-text>169.99€ 139.99€</mj-text>
-        <mj-button>J'en profite</mj-button>
+        <mj-text align="center" padding="0">Répéteur WiFi 5 Mesh</mj-text>
+        <mj-text align="center" padding="0">AC3000 (EX8000)</mj-text>
+        <mj-text align="center" padding="0">169.99€ 139.99€</mj-text>
+        <mj-button mj-class="bg0">J'en profite</mj-button>
       </mj-column>
     </mj-section>
     <mj-section>
