@@ -62,9 +62,9 @@
     </mj-section>
     <mj-section mj-class="bgB">
       <mj-column>
-        <mj-image src="./images/WIFIblue.png" alt=""/>
-        <mj-text>Système mesh orbi wifi 6</mj-text>
-        <mj-text>Avec les Systèmes Mesh Orbi WiFi 6, vous pouvez résoudre de façon permanente les problèmes de couverture WiFi dans toute votre maison. Tous les membres de votre famille seront conquis grâce à la connexion Wifi ultre-rapide. Vous ne pourrez même plus vous en passer.</mj-text>
+        <mj-image padding="0" width="200px" src="./images/WIFIblue.png" alt=""/>
+        <mj-text padding="0" align="center" mj-class="T30-300 cTW" text-transform="uppercase">Système mesh orbi wifi 6</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cTW" letter-spacing="0.5px">Avec les Systèmes Mesh Orbi WiFi 6, vous pouvez résoudre de façon permanente les problèmes de couverture WiFi dans toute votre maison. Tous les membres de votre famille seront conquis grâce à la connexion Wifi ultre-rapide. Vous ne pourrez même plus vous en passer.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgW">
