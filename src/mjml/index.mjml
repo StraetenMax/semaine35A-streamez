@@ -15,6 +15,7 @@
     <mj-attributes>
       <mj-all font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans serif"/>
       <mj-class name="T30-300" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="30px" line-height="50px" font-weight="300"/>
+      <mj-class name="T26-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="26px" line-height="35px" font-weight="500"/>
       <mj-class name="T17-500" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="17px" line-height="25px" font-weight="500"/>
       <mj-class name="T14-400" font-family="&quot;Source Sans 3&quot;, Arial, Helvetica, sans-serif" font-style="normal" font-size="14px" line-height="18px" font-weight="400"/>
       <mj-class name="T12-400" font-family="Arial, Helvetica, sans-serif" font-style="normal" font-size="12px" line-height="15px" font-weight="400"/>
@@ -42,22 +43,22 @@
         </mj-column>
       </mj-group>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgT1">
       <mj-column>
-        <mj-text>3, 2, 1... Streamez !</mj-text>
+        <mj-text padding="0" align="center" mj-class="cTW">3, 2, 1... Streamez !</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section>
-      <mj-column>
-        <mj-image src="./images/interieurMaison.jpg" alt=""/>
+    <mj-section padding="0">
+      <mj-column width="100%">
+        <mj-image padding="0" width="700px" src="./images/interieurMaison.jpg" alt=""/>
       </mj-column>
     </mj-section>
-    <mj-section>
+    <mj-section mj-class="bgW">
       <mj-column>
-        <mj-text>Streamez en continu</mj-text>
-        <mj-text>Nos Solutions WiFi Mesh permettent à toute la famille de streamer sans ralentissement, ou interruption, de passer des appels vidéo et de jouer en ligne simultanément, sans que votre connexion WiFi ne ralentisse.</mj-text>
-        <mj-text>Découvrez nos Solutions WiFi et optez pour celle qui vous conviendra par rapport à la vitesse WiFi recherchée, au nombre d'appareils connectés ou en encore à la superficie de votre maison.</mj-text>
-        <mj-text>La bonne nouvelle est que vous pouvez profiter dès maintenant de promos exlusives sur nos meilleures Solutions WiFi qui vous maintiendront tous connectés !</mj-text>
+        <mj-text padding="0" align="center" mj-class="T26-500 cT1" letter-spacing="0.5px">Streamez en continu</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Nos Solutions WiFi Mesh permettent à toute la famille de streamer sans ralentissement, ou interruption, de passer des appels vidéo et de jouer en ligne simultanément, sans que votre connexion WiFi ne ralentisse.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">Découvrez nos Solutions WiFi et optez pour celle qui vous conviendra par rapport à la vitesse WiFi recherchée, au nombre d'appareils connectés ou en encore à la superficie de votre maison.</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">La bonne nouvelle est que vous pouvez profiter dès maintenant de promos exlusives sur nos meilleures Solutions WiFi qui vous maintiendront tous connectés !</mj-text>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgB">
