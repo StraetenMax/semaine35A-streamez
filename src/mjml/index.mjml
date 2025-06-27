@@ -63,7 +63,7 @@
         <mj-text padding="0" align="center" mj-class="T17-500 cT1" letter-spacing="0.5px">La bonne nouvelle est que vous pouvez profiter <strong>dès maintenant de promos exclusives sur nos meilleurs Solutions WiFi</strong> qui vous maintiendront tous connectés&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgB" padding="10px 50px">
+    <mj-section mj-class="bgB" padding="10px 55px">
       <mj-column>
         <mj-image padding="0" padding-bottom="15px" width="200px" src="./images/WIFIblue.png" alt=""/>
         <mj-text padding="0" padding-bottom="5px" align="center" mj-class="T30-300 cTW" text-transform="uppercase">Système mesh orbi wifi 6</mj-text>
@@ -132,27 +132,33 @@
         <mj-spacer height="40px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bg0">
+    <mj-section mj-class="bg0" padding="10px 55px">
       <mj-column>
-        <mj-image width="234px" src="./images/WIFIblack.png" alt=""/>
-        <mj-text align="center" mj-class="T30-300 cTW" text-transform="uppercase">répéteurs wifi</mj-text>
-        <mj-text align="center" mj-class="T17-500 cTW" letter-spacing="0.5px">Ajoutez un répéteur WiFi à votre box ou routeur pour étendre votre connexion là où il n'y a pas de couverture WiFi.</mj-text>
+        <mj-image padding="0" width="234px" src="./images/WIFIblack.png" alt=""/>
+        <mj-text padding="10px 0" align="center" mj-class="T30-300 cTW" text-transform="uppercase">répéteurs wifi</mj-text>
+        <mj-text padding="0" align="center" mj-class="T17-500 cTW" letter-spacing="0.5px">Ajoutez un répéteur WiFi à votre box ou routeur pour étendre votre connexion là où il n'y a pas de couverture WiFi.</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section mj-class="bgW">
-      <mj-column>
-        <mj-image src="./images/repeteurWiFi6MeshAX6000.jpg" alt=""/>
-        <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing=".5px">Répéteur <strong>WiFi 6 Mesh</strong></mj-text>
+    <mj-section mj-class="bgW" padding="0">
+      <mj-column padding="10px">
+        <mj-image padding="0" align="center" width="275px" src="./images/repeteurWiFi6MeshAX6000.jpg" alt=""/>
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text align="center" padding="0px" mj-class="T17-500 cT0" letter-spacing=".5px">Répéteur <strong>WiFi 6 Mesh</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing=".5px">AX6000 (EAX80)</mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing=".5px"><span style="color:#ff0000;text-decoration-line:line-through;">299.99€</span> <strong style="color:#00a3de;">199.99€</strong></mj-text>
+        <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bg0">J'en profite</mj-button>
+        <mj-spacer height="40px"></mj-spacer>
       </mj-column>
-      <mj-column>
-        <mj-image src="./images/repeteurWiFi5MeshAC3000.jpg" alt=""/>
+      <mj-column padding="10px">
+        <mj-image padding="0" align="center" width="275px" src="./images/repeteurWiFi5MeshAC3000.jpg" alt=""/>
+        <mj-spacer height="10px"></mj-spacer>
         <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing=".5px">Répéteur <strong>WiFi 5 Mesh</strong></mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing=".5px">AC3000 (EX8000)</mj-text>
         <mj-text align="center" padding="0" mj-class="T17-500 cT0" letter-spacing=".5px"><span style="color:#ff0000;text-decoration-line:line-through;">169.99€</span> <strong style="color:#00a3de;">139.99€</strong></mj-text>
+        <mj-spacer height="20px"></mj-spacer>
         <mj-button mj-class="bg0">J'en profite</mj-button>
+        <mj-spacer height="40px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section mj-class="bgT1">
